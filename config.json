@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdave",
+        "uuid": 7967341,
+        "checksum": "0ocff4"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
